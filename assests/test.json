@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Wait, What? This Limited-Edition Perfume Smells Just Like French Fries - NDTV Food",
+    "description": "A limited-edition perfume captures the essence of freshly-made French Fries. Here's how internet users reacted to it!",
+    "url": "https://food.ndtv.com/news/wait-what-this-limited-edition-perfume-smells-just-like-french-fries-2767305",
+    "urlToImage": "https://c.ndtvimg.com/2022-02/s409krng_french-fries-perfume_625x300_14_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+    "publishedAt": "2022-02-14T08:32:04Z",
+    "content": "Have you ever walked past a bakery and got a whiff of the aroma of freshly baked goods? This instantly tempts you and entices you to indulge in some baked goodies. Passionate foodies are aware that f… [+2222 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Anmar Frangoul",
+    "title": "Coal mines transformed society. Now, their flooded remains could heat the homes of the future - CNBC",
+    "description": "Most mines in the U.K. have fallen silent, but their centuries-old story isn't necessarily over.",
+    "url": "https://www.cnbc.com/2022/02/14/flooded-disused-coal-mines-could-change-how-our-homes-are-heated.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106882582-1620914748216-gettyimages-96390221-14mrk1243rf.jpeg?v=1644320162",
+    "publishedAt": "2022-02-14T07:45:05Z",
+    "content": "LONDON The ramifications of the Industrial Revolution, which had its roots in 18th-century Britain, were huge.\r\nBritain's abundance of coal as well as the ease with which it could be accessed was a c… [+6815 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Elliot Smith",
+    "title": "European stocks slide 2% on Russia-Ukraine tensions; Germany's DAX down 3.2% - CNBC",
+    "description": "European markets tumbled on Monday as investors continued to track tensions in Ukraine and remarks from U.S. Fed officials about the interest rate outlook.",
+    "url": "https://www.cnbc.com/2022/02/14/europe-markets-ukraine-concerns-escalate-fed-remarks-in-focus.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107014421-1644606098503-gettyimages-1238381513-ts1228b2.jpeg?v=1644606143",
+    "publishedAt": "2022-02-14T07:10:27Z",
+    "content": "LONDON European markets pulled back sharply on Monday as investors continued to track tensions in Ukraine and remarks from U.S. Federal Reserve officials about the interest rate outlook.The pan-Europ… [+2418 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Mail"
+    },
+    "author": "Alastair Talbot",
+    "title": "American Airlines flight from LA to DC stops in Kansas City after man tried to open cockpit door - Daily Mail",
+    "description": "An American Airlines flight from LA to DC was forced to make an emergency landing in Kansas City on Sunday due to an 'unruly passenger' who tried to break into the cockpit and open an exit door.",
+    "url": "https://www.dailymail.co.uk/news/article-10509833/American-Airlines-flight-LA-DC-stops-Kansas-City-man-tried-open-cockpit-door.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/14/06/54164051-0-image-a-31_1644820630001.jpg",
+    "publishedAt": "2022-02-14T07:09:49Z",
+    "content": "An American Airlines flight from Los Angeles to DC was diverted to Kansas City on Sunday afternoon due to an 'unruly passenger' who tried to break into the cockpit and then attempted to open an exit … [+3473 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "BBC",
+    "title": "India bourse head was a 'puppet' of unnamed yogi, regulators say - Yahoo News",
+    "description": "Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru.",
+    "url": "https://news.yahoo.com/india-bourse-head-puppet-unnamed-052642696.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nHTgekHq.BcvL9oJ5jgJgQ--~B/aD01NDk7dz05NzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/6ae0f99cbcffc3711fe1e4de18a84934",
+    "publishedAt": "2022-02-14T05:31:30Z",
+    "content": "Chitra Ramkrishna left her role at the National Stock Exchange in 2016\r\nThe former chief executive of India's largest bourse made crucial decisions by consulting and sending confidential information … [+3873 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil prices climb more than 1% to 7-year highs on supply disruption fears - Reuters",
+    "description": "Oil prices on Monday hit their highest in more than seven years on fears that a possible invasion of Ukraine by Russia could trigger U.S. and European sanctions that would disrupt exports from the world's top producer in an already tight market.",
+    "url": "https://www.reuters.com/business/energy/oil-prices-clamber-towards-7-year-highs-russia-ukraine-tensions-2022-02-14/",
+    "urlToImage": "https://www.reuters.com/resizer/raaUsqoNitFnNFa6xHwCcq5X54E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SJQYKQ4NHZLTNNDJNUFKSDHZ6U.jpg",
+    "publishedAt": "2022-02-14T05:19:00Z",
+    "content": "SINGAPORE, Feb 14 (Reuters) - Oil prices on Monday hit their highest in more than seven years on fears that a possible invasion of Ukraine by Russia could trigger U.S. and European sanctions that wou… [+2658 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Story by Reuters",
+    "title": "Australia's Crown Resorts backs $6.3 billion Blackstone bid - CNN",
+    "description": "Crown Resorts backed a $6.3 billion buyout from private equity giant Blackstone on Monday, giving billionaire James Packer an exit route from the Australian casino firm beset by scandals and regulatory setbacks.",
+    "url": "https://www.cnn.com/2022/02/14/business/australia-crown-resorts-backs-blackstone-takeover/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220213232640-crown-resort-australia-02142022-super-tease.jpg",
+    "publishedAt": "2022-02-14T05:14:00Z",
+    "content": "Crown Resorts backed a $6.3 billion buyout from private equity giant Blackstone on Monday, giving billionaire James Packer an exit route from the Australian casino firm beset by scandals and regulato… [+3655 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Benzinga"
+    },
+    "author": null,
+    "title": "McDonald's Big Dogecoin Announcement, In Response To Elon Musk? Uhhhhhhhhhhhhhhhhhhhhh… - Benzinga - Benzinga",
+    "description": "McDonald’s Corp (NYSE:MCD) promised on social media&nbs...",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/22/02/25591045/mcdonalds-big-dogecoin-announcement-in-response-to-elon-musk-uhhhhhhhhhhhhhhhhhhhhh",
+    "urlToImage": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screen_shot_2022-02-14_at_9.03.58_am.png?width=720",
+    "publishedAt": "2022-02-14T03:35:00Z",
+    "content": "McDonald’s Corp (NYSE:MCD) promised on social media that something was coming and it did arrive but it was not what the Dogecoin (CRYPTO: DOGE) community was anticipating.\r\nWhat Happened: Instead, in… [+1863 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bitcoin.com"
+    },
+    "author": null,
+    "title": "IMF: Crypto Is No Match for Well-Designed Central Bank Digital Currencies – Regulation Bitcoin News - Bitcoin News",
+    "description": "The managing director of the International Monetary Fund (IMF), Kristalina Georgieva, says that crypto assets and stablecoins are no match for well-designed central bank digital currencies (CBDCs).",
+    "url": "https://news.bitcoin.com/imf-crypto-no-match-for-well-designed-central-bank-digital-currencies/",
+    "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/imf-chief.jpg",
+    "publishedAt": "2022-02-14T03:31:25Z",
+    "content": "The managing director of the International Monetary Fund (IMF), Kristalina Georgieva, says that crypto assets and stablecoins are no match for well-designed central bank digital currencies (CBDCs). “… [+3476 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Teslarati"
+    },
+    "author": "Maria Merano",
+    "title": "Tesla’s next facility in China may be located in Shenyang: local gov’t announcement - Teslarati",
+    "description": "On Friday, February 11, the Liaoning Province hinted that Tesla was searching for a second facility in China. One of the potential locations for Tesla’s next factory is the District of Shenyang.  Liaoning Province released an announcement on its official WeCh…",
+    "url": "https://www.teslarati.com/tesla-gigafactory-shenyang/",
+    "urlToImage": "https://www.teslarati.com/wp-content/uploads/2022/02/tesla-gigafactory-shenyang--1024x566.jpg",
+    "publishedAt": "2022-02-14T02:53:30Z",
+    "content": "On Friday, February 11, the Liaoning Province hinted that Tesla was searching for a second facility in China. One of the potential locations for Tesla’s next factory is the District of Shenyang. \r\nLi… [+2151 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Lockheed scraps $4.4B deal to buy Aerojet amid regulatory hurdles - Fox Business",
+    "description": "U.S. arms maker Lockheed Martin Corp called off plans on Sunday to acquire rocket engine maker Aerojet Rocketdyne Holdings Inc for $4.4 billion amid opposition from U.S. antitrust enforcers.",
+    "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-terminates-44-bln-deal-acquire-aerojet-rocketdyne-2022-02-13/",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/2016-10-25T113843Z_1_LYNXNPEC9O0PZ_3_AEROSPACE-JAPAN-2.jpg?ve=1&tl=1",
+    "publishedAt": "2022-02-14T02:38:55Z",
+    "content": "U.S. arms maker Lockheed Martin Corp called off plans on Sunday to acquire rocket engine maker Aerojet Rocketdyne Holdings Inc for $4.4 billion amid opposition from U.S. antitrust enforcers.\r\n<table>… [+2636 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Weizhen Tan",
+    "title": "Are tech giants 'sunsetting'? Strategists warn of big tech under pressure - CNBC",
+    "description": "Investors looking at tech giants in both the U.S. and China need to be cautious, as these firms are facing a myriad of issues, a couple of investment managers told CNBC this week.",
+    "url": "https://www.cnbc.com/2022/02/14/us-china-tech-giants-under-regulatory-pressure-competition.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107001195-1642121927654-gettyimages-1025080924-AA_29082018_802835.jpeg?v=1642122035",
+    "publishedAt": "2022-02-14T02:02:00Z",
+    "content": "Investors looking to put money into U.S. and China internet giants should be cautious as these companies are facing a myriad of challenges, strategists told CNBC.\r\nInvestment bank Macquarie said larg… [+4330 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Chaim Gartenberg",
+    "title": "Polestar fires shots at Tesla and Volkswagen, promises 'no compromises' in Super Bowl ad - The Verge",
+    "description": "Polestar’s Super Bowl commercial shows off its Polestar 2 SUV and takes shots at Tesla, Volkswagen, and the concept of flashy car commercials in general as it promises ‘no compromises.’",
+    "url": "https://www.theverge.com/2022/2/13/22932414/polestar-super-bowl-ad-commercial-no-compromises-tesla-volkswagen",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/WfLZt8w7hHhWRvuwHJRO7dkHm3o=/77x0:2358x1194/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23239779/Screen_Shot_2022_02_13_at_7.32.01_PM.png",
+    "publishedAt": "2022-02-14T00:52:10Z",
+    "content": "No conquering Mars"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Arjun Kharpal",
+    "title": "China's tech giants push toward an $8 trillion metaverse opportunity — one that will be highly regulated - CNBC",
+    "description": "China's technology giants from Tencent to Alibaba and ByteDance are investing in the metaverse, a market that could be worth $8 trillion in the future.",
+    "url": "https://www.cnbc.com/2022/02/14/china-metaverse-tech-giants-latest-moves-regulatory-action.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107007566-1643309717837-gettyimages-1237397004-Metaverse_Concept_VR.jpeg?v=1643872697",
+    "publishedAt": "2022-02-14T00:43:00Z",
+    "content": "Citizens try out a virtual reality experience at the opening of Cheonan Qianshu Shopping mall, Shanghai, China, On December 22, 2021. Virtual reality is a key part of the concept of the metaverse.\r\nI… [+6740 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Chaim Gartenberg",
+    "title": "Coinbase’s bouncing QR code Super Bowl ad was so popular it crashed the app - The Verge",
+    "description": "Coinbase’s clever, DVD-inspired QR code Super Bowl commercial promoted the service with a free sign up and $3 million giveaway, but was also so popular that it crashed the company’s app.",
+    "url": "https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/71XwMyMb_cQmZCHPH7CA_X6hLfY=/0x0:3121x1634/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23239763/Screen_Shot_2022_02_13_at_7.21.46_PM.png",
+    "publishedAt": "2022-02-14T00:28:02Z",
+    "content": "Less talk, more Bitcoin\r\nCoinbase just made its Super Bowl debut with a remarkable clever QR code ad that might have been too popular: the companys Less talk, more Bitcoin, campaign appears to have t… [+1228 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "James Rubin, Damanick Dantes",
+    "title": "First Mover Asia: Bitcoin Inches Upward in Sunday Trading - CoinDesk",
+    "description": "But the largest cryptocurrency by market cap was way way off last week's levels amid light weekend trading and escalating tensions about a possible war with Russia; ether and most other major cryptos dropped.",
+    "url": "https://www.coindesk.com/markets/2022/02/13/first-mover-asia-bitcoin-inches-upward-in-sunday-trading/",
+    "urlToImage": "https://www.coindesk.com/resizer/MFINHbtjEiwTx2zRa5-hclXv9Qg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5QS7MTFLGND65MET22SXW3MWDI.jpg",
+    "publishedAt": "2022-02-13T23:50:00Z",
+    "content": "The leader in news and information on cryptocurrency, digital assets and the future of money, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by astrict set … [+426 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bitcoin.com"
+    },
+    "author": null,
+    "title": "Ethereum Fees Drop to the Lowest Rate in 4 Months, 71% Lower Than Transfer Fees in January – Altcoins Bitcoin News - Bitcoin News",
+    "description": "The average transaction fee on the Ethereum network has dropped to the lowest level in four months, according to today's statistics.",
+    "url": "https://news.bitcoin.com/ethereum-fees-drop-to-the-lowest-rate-in-4-months-71-lower-than-transfer-fees-in-january/",
+    "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/average-transaction-fee-on-the-ethereum-network.jpg",
+    "publishedAt": "2022-02-13T21:32:06Z",
+    "content": "The average transaction fee on the Ethereum network has dropped to the lowest level in four months, according to statistics on February 13, 2022. Mid-September 2021 was the last time gas fees on Ethe… [+3705 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Enda Curran and Rich Miller",
+    "title": "$100 Oil Threatens to Compound World Economy’s Inflation Shock - Yahoo Finance",
+    "description": "(Bloomberg) -- Sign up for the New Economy Daily newsletter, follow us @economics and subscribe to our podcast.Most Read from BloombergCovid’s Great...",
+    "url": "https://finance.yahoo.com/news/100-oil-threatens-compound-world-211750831.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/phu8hDDCMRX_LbRLFM7l2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjg-/https://s.yimg.com/uu/api/res/1.2/K.XR_T0N8nuJU9sd4U_Q8w--~B/aD03ODY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/621ceefcec20026c788090d0e8de1735",
+    "publishedAt": "2022-02-13T21:17:50Z",
+    "content": "(Bloomberg) -- Sign up for the New Economy Daily newsletter, follow us @economics and subscribe to our podcast.\r\nMost Read from Bloomberg\r\nOils surge toward $100 a barrel for the first time since 201… [+5898 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Honolulu Star-Advertiser"
+    },
+    "author": "Star-Advertiser staff",
+    "title": "Hawaii records 4 new coronavirus-related deaths, 532 additional infections - Honolulu Star-Advertiser",
+    "description": "Hawaii Department of Health officials today reported four new coronavirus-related deaths and 532 new confirmed and probable infections statewide, bringing the state’s totals since the start of the pandemic to 1,262 fatalities and 231,510 cases.",
+    "url": "https://www.staradvertiser.com/2022/02/13/breaking-news/hawaii-records-4-new-coronavirus-related-deaths-532-additional-infections/",
+    "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2022/02/web1_0213-WEB-covid.jpg",
+    "publishedAt": "2022-02-13T19:25:23Z",
+    "content": "Hawaii Department of Health officials today reported four new coronavirus-related deaths and 532 new confirmed and probable infections statewide, bringing the state’s totals since the start of the pa… [+3197 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Nora Eckert",
+    "title": "Teens Find Rising Used-Car Prices Dash Hopes of First Car - The Wall Street Journal",
+    "description": "Jump in prices for preowned vehicles is blowing household budgets and adding strain for teenagers looking to secure their own rides",
+    "url": "https://www.wsj.com/articles/teens-find-rising-used-car-prices-dash-hopes-of-first-car-11644764400",
+    "urlToImage": "https://images.wsj.net/im-485047/social",
+    "publishedAt": "2022-02-13T18:57:00Z",
+    "content": "Chase Smith had been saving for her first car long before she had a license to drive. But when the 16-year-old was ready to buy, she saw the prices and hit the brakes.\r\nIt was definitely very frustra… [+241 chars]"
+  }
+]
+}
